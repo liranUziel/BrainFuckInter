@@ -1,6 +1,8 @@
 # Brain Fuck
 <img src="brainf.png" width="50">
-## Simple **c** base interpeter
+
+Simple **c** base interpeter
+
 base onf *Urban Müller* esoteric programming language
 ## Supported Commands
 
