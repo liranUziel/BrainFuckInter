@@ -23,7 +23,7 @@ example
 ```sh
 gcc brainf.c -o brainf.exe
 ```
-##Runing the code
+## Runing the code
 Can run any file in this version. in later version will support only bf files
 ```sh
 brainf code.bf
